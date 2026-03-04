@@ -1,0 +1,59 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main-title {
+    font-size: 48px;
+    color:blue;
+    text-align: center;
+    font-weight: bold;
+}
+
+.main-list {
+    text-align: center;
+    font-size: 24px;
+}
+
+a:hover {
+    color: red;
+}
+
+.title {
+    font-size: 38px;
+    color: blue;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.homeBtn {
+    display: block;
+    font-size: 24px;
+    text-align: center;
+    padding: 20px;
+}
+
+.img {
+    display: block;
+    margin: auto;
+    border-radius: 8px;
+}
+
+.desc {
+    text-align: center;
+    color: red;
+}
+
+.ingr {
+    text-align: center;
+    color: red;
+}
+
+.direct {
+    text-align: center;
+    color: red;
+}
+
+.description {
+    font-size: 18px;
+    background-color: whitesmoke;
+}
